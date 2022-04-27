@@ -23,7 +23,6 @@ class MyClassMethod:
 
         def new_func(*args):
             return self.func(cls, *args)
-
         return new_func
 
 
